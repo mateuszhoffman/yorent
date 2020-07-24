@@ -2,13 +2,14 @@
 <br />
 <p align="center">
   <a href="https://github.com/mateuszhoffman/yorent">
-    <img src="docs/images/logo.png" alt="Logo" width="214" height="80">
+    <img src="docs/images/yorent-logo-rm.jpg" alt="Logo" width="214" height="80">
   </a>
 
   <h3 align="center">🚘 YORENT - Fictional Car Rental company's web application</h3>
 
   <p align="center">
     Web application written in React and NodeJS that provides some of the core functionalities that covers common car rental company's business requirements.
+    <br />
     <br />
     <a href="https://github.com/mateuszhoffman/yorent"><strong>Explore the docs »</strong></a>
     <br />
