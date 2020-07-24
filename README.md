@@ -38,11 +38,10 @@ To be filled.
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+This section will provide you some simple steps to install and run the application. To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This section will provide you some simple steps to install and run the application on your local machine.
 Make sure that you have both **NPM** and **NodeJS >10.0** installed on your local machine.
 
 ### Installation
