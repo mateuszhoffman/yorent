@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mateuszhoffman/yorent">
-    <img src="docs/images/yorent-logo-rm.jpg" alt="Logo" width="214" height="80">
+    <img src="docs/images/yorent-logo.png" alt="Logo" width="274" height="80">
   </a>
 
   <h3 align="center">🚘 YORENT - Fictional Car Rental company's web application</h3>
